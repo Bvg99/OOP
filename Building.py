@@ -9,12 +9,14 @@ class Building:
         self.buildingType = 'residential'
 
     def __eq__(self, other):
-        return self.numberOfFloors == other.numberOfFloors
+        return self.numberOfFloors == other.numberOfFloors and self.buildingType == other.buildingType
+
+
+
 
 
 industrial_building = Building()
 residential_building = Building()
-another_residential_building = Building()
 
 print('floors: ', industrial_building.numberOfFloors, ',  type: ', industrial_building.buildingType)
 
