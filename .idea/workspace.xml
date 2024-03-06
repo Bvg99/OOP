@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40a48dfc-d206-4698-9953-c6c3f83f93d6" name="Changes" comment="House">
+      <change afterPath="$PROJECT_DIR$/Building_1.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Building_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Building_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Probe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Probe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,21 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Building.executor": "Run",
-    "Python.Building_2.executor": "Run",
-    "Python.Classes.executor": "Debug",
-    "Python.Classes_2.executor": "Run",
-    "Python.Probe.executor": "Run",
-    "Python.Special_methods.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Building.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Building_1.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Building_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Classes.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Classes_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Probe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Special_methods.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.project&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Building_2">
+}</component>
+  <component name="RunManager" selected="Python.Building_1.1">
     <configuration name="Building" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OOP" />
       <option name="ENV_FILES" value="" />
@@ -60,6 +64,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Building.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Building_1.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Building_1.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,28 +160,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Special_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="OOP" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Special_methods.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="OOP" />
       <option name="ENV_FILES" value="" />
@@ -180,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Building_2" />
+        <item itemvalue="Python.Building_1.1" />
         <item itemvalue="Python.Probe" />
         <item itemvalue="Python.Building" />
+        <item itemvalue="Python.Building_2" />
         <item itemvalue="Python.Classes" />
-        <item itemvalue="Python.Special_methods" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709453632759</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="House">
+      <option name="closed" value="true" />
+      <created>1709454201859</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709454201859</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
