@@ -4,7 +4,7 @@ class House:
 
 
     def lift(self):
-        for current_floor in range(1, 11):
+        for current_floor in range(self.number_of_floors + 1):
             print('current floor: ', current_floor)
 
 house = House()
